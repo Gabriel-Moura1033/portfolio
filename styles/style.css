@@ -115,6 +115,8 @@ body {
 .foto {
     border-radius: 16px;
     width: 50%;
+    
+    border: 8px solid var(--cor-terciaria);
 }
 
 @media (max-width: 1200px) {
