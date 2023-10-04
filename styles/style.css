@@ -113,7 +113,7 @@ body {
 }
 
 .foto {
-    border-radius: 16px;
+    border-radius: 30px;
     width: 50%;
     
     border: 8px solid var(--cor-terciaria);
