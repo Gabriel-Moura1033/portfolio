@@ -151,5 +151,22 @@ body {
         height: 60%;
     }
 
+    .apresentacao__links_link {
+        /* background-color: #22d4fd; */
+        display: flex;
+        justify-content: center;
+        gap: 16px;
+        border: 2px solid var(--cor-terciaria);
+        width: 50%;
+        text-align: center;
+        border-radius: 8px;
+        font-size: 1.35rem;
+        padding: 21.5px 0;
+        font-weight: 600;
+        text-decoration: none;
+        color: var(--cor-secundaria);
+        font-family: 'Montserrat', sans-serif;
+    }
+
     
 }
